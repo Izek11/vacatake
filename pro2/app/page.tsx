@@ -1,6 +1,5 @@
 
-import Image from "next/image";
-import { Component } from "react";
+import React from "react";
 import Link from "next/link";
 const App:React.FC =()=>{
     return(

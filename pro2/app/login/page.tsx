@@ -1,6 +1,5 @@
 import React from "react";
 import Link from "next/link";
-import{Form,Button,Checkbox,Input} from "antd"
 
 const App:React.FC =()=>{
     return(
